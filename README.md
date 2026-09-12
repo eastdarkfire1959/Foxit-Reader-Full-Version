@@ -239,4 +239,4 @@ This repository serves as the official landing page for Foxit Reader. The softwa
 **Get the most recent version of Foxit Reader today!**
 
 ---
-**Last updated:** 2026-09-12 19:54:25 UTC
+**Last updated:** 2026-09-12 21:49:19 UTC
